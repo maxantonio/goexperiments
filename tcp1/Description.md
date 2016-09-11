@@ -14,5 +14,8 @@ we are going to test this using a simple echo -n "this is my first message :)" |
 please explain
 -what are the advantages of using a buffer, if we are assuming that we are going to receive a large volume of messages
 -what are the options to implement a buffer (ex bufio)
+
+
+This is what I have so far https://gist.github.com/maxantonio/fada382613de86b33bc1600234b84f47
 *********************************************************************
-1.00
+1.01
